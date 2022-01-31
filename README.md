@@ -1,5 +1,5 @@
 # order-totals
-Code to find your Swiggy and Zomato spends.
+Scripts to find your Swiggy and Zomato spends.
 
 ## How to use ?
 1. Make sure you have node.js installed.
